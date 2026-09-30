@@ -1,0 +1,7 @@
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
+pandas>=2.1
+yfinance>=0.2.54
+lxml>=5
+pytest>=8
